@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmptyApplication</string>
+    <string-array name="lista_opcji">
+        <item>Pustelnia</item>
+        <item>Mała wieś</item>
+        <item>Wieś</item>
+        <item>Duża wieś</item>
+        <item>Małe miasto</item>
+        <item>Miasto</item>
+        <item>Duże miasto</item>
+        <item>Metropolia</item>
+    </string-array>
+</resources>
